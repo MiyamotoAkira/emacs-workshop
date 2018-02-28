@@ -1,0 +1,31 @@
+[] Create VM
+  This VM should have a basic installation of Linux (Mint?)
+  Username - password: emacs
+[] Find how to share the VM file
+[] Install Emacs on the VM
+[] How to update your own emacs (last thing?)
+[] Have a file of code (Ruby?) set, so we can use it to learn to navigate
+[] Need to find an emacs plugin that shows the letters that are being pressed.
+[] How to find the help
+[] Talk about Keychords
+[] C-g to escape from everything or Esc-Esc-Esc
+[] Talk about evil mode
+[] Install showkey.el
+[] Explain C-c (mode based keybindings) and C-x (Global execute)
+[] Talk about swapping the caps lock for the control key.
+[] Show Alt-x
+[] Explain about major and minor modes
+[] Open .emacs.d/init.el
+  Have use-package already setup, so is just a question of start adding packages
+[] Brief explanation about elisp
+  Created by Stallman and Guy Steele (Scheme and Lambda papers co-creator)
+[] Add robe-mode
+[] Show additional functionality of robe-mode
+[] Add magit
+  Show how to add new keybindings
+[] Indicate which languages are a bit more complicated on emacs: Java/F#
+[] Tab is not tab. Is indentation. C-tab for an actual tab
+[] M-x describe-package
+[] M-x describe-mode
+[] Change buffer size
+[] Tab is indentation. C-Tab for actual tab
