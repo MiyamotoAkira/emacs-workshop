@@ -1,0 +1,40 @@
+[] `C-x C-c` to close emacs
+[] Talk about Keychords
+Everything in Emacs can (and should be done) by keyboard. No mouse here. Emacs uses key combinations to do call everything.
+And when I say everything I mean everything. Even pressing the letter a is a keybinding to a command that will write a on 
+the current buffer.
+[] How to find the help. `C-h`
+[] `C-g` to escape from everything or Esc-Esc-Esc
+[] `C-x 2` to create horizontally divided buffers
+[] `C-x 3` to create vertically divided buffers
+[] `C-x o` for movement between buffers
+[] `C-x 0` close this buffer
+[] `C-x 1` Close all buffers but this
+[] `C-number` plus keychord repeats the command x amount of times
+[] `C-h b` all current keybindings. 
+[] `C-s` and `C-r` search 
+[] Show `M-x`
+[] M-x describe-package
+[] M-x describe-mode
+[] Explain C-c (mode based keybindings) and C-x (Global execute)
+[] Emacs is not a text editor
+There is the joke about being an OS. But consider it a very powerful IDE.
+[] Talk about evil mode
+[] Talk about swapping the caps lock for the control key.
+[] Explain about major and minor modes
+[] Open .emacs.d/init.el `C-x C-f` to open a file
+[] Brief explanation about elisp
+  Created by Stallman and Guy Steele (Scheme and Lambda papers co-creator)
+[] Talk about packages and packages installed
+[] Open Clojure project
+[] Run tests `C-c C-t C-t`
+[] Fix test
+[] Change test to call foo
+[] Change Foo implementation to return 1
+[] Rename foo (`M-x cljr-rename-symbol` or `C-c Ret rs` or `C-c C-m rs`)
+[] Not all languages behave the same
+[] Indicate which languages are a bit more complicated on emacs: Java/F#
+[] Add magit
+  Show how to add new keybindings
+[] Tab is not tab. Is indentation. C-tab for an actual tab
+[] Change buffer size

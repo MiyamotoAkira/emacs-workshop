@@ -1,4 +1,4 @@
-[] Create VM
+[ ] Create VM
   This VM should have a basic installation of Linux (Mint?)
   Username - password: emacs
 [] Find how to share the VM file
